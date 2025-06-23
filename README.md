@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de ejemplo de clase de estudio de Henry modulo 2
+Este es una prueba de como crear un repositorio en GitHub del ejercicio del modulo 2
+
+Estudio en Henry
